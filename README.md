@@ -5,7 +5,7 @@ I'm a junior developer with a passion for building web applications using React.
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+- **Tools:** Git, GitHub, VS Code, npm
 
 ## 🌱 Currently Learning
 - Advanced React concepts
