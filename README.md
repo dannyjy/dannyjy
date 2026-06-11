@@ -1,14 +1,17 @@
-# 👋 Hi, I'm Daniel John!
+# Welcome, I'm Daniel John!
 
-## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+## About Me
+I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end and backend technologies to enhance my skills and contribute to exciting projects.
 
-## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm
-- **Backend:**
-- **Programming Languages:** Javascript, C# 
+## Technologies & Tools
+- **Frontend:** ReactJs, ReactRouter, TypeScript, JavaScript, HTML, CSS,
+- **Tools:** Git, GitHub, VS Code, npm, pnpm
+- **Backend:** NodeJs, ExpressJs, ASP.NET
+- **Programming Languages:** Javascript, C#
+- **Database:** MongoDb, PostgreSQL, MySQL
 
 ## 🌱 Currently Learning
-- Advanced React concepts
-- Backend basics with ASP.NET
+- NextJs Full Stuck Framework with TypeScript
+- NestJs Backend Framework with TypeScript
+- Backend basics with ASP.NET CORE
+- Embedded Systems with C++
